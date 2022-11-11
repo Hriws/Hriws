@@ -1,0 +1,28 @@
+{
+  "asn": "AS20057",
+  "asnNumeric": 20057,
+  "organisation": "ATT Mobility LLC",
+  "name": "ATT-MOBILITY-LLC-AS20057",
+  "registry": "ARIN",
+  "registeredCountry": "US",
+  "registeredCountryName": "United States of America",
+  "registrationDate": "2001-03-20",
+  "registrationLastChange": "2012-03-20",
+  "totalIpv4Addresses": 4491520,
+  "totalIpv4Prefixes": 2050,
+  "totalIpv4BogonPrefixes": 0,
+  "rank": 119,
+  "rankText": "#119 out of 74,459"
+}{
+  "status": 400,
+  "description": "bad request"
+}{
+  "status": 403,
+  "description": "access denied or your quota limit has been exceeded"
+}{
+  "status": 404,
+  "description": "no valid entry found for the request"
+}{
+  "status": 500,
+  "description": "an error has occurred and your request was not completed. please try later"
+}
